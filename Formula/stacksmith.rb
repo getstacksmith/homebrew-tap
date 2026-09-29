@@ -3,9 +3,9 @@
 class Stacksmith < Formula
   desc "Run and inspect local development stacks defined in .stacksmith.yml"
   homepage "https://getstacksmith.app/"
-  url "https://github.com/getstacksmith/stacksmith-releases/releases/download/cli-v0.1.2/stacksmith-0.1.2-macos-arm64.tar.gz"
-  version "0.1.2"
-  sha256 "d98ca445b64ee47e633569784b55b49c1094282005f9530b2c1f118553f0ead4"
+  url "https://github.com/getstacksmith/stacksmith-releases/releases/download/cli-v0.1.3/stacksmith-0.1.3-macos-arm64.tar.gz"
+  version "0.1.3"
+  sha256 "4afaf085ed4ee0a9360892e143801359511e63dca401ddc4ef15cddc3cb16744"
 
   depends_on arch: :arm64
   depends_on macos: :sonoma
